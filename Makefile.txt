@@ -1,0 +1,2 @@
+mysorts: main.cpp
+	gcc -o mysorts main.cpp
